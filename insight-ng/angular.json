@@ -22,12 +22,31 @@
             ],
             "styles": [
               "src/styles.scss",
-              "node_modules/bootstrap/dist/css/bootstrap.min.css"
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/assets/default_theme/css/normalize.css",
+              "src/assets/default_theme/css/font-awesome.min.css",
+              "src/assets/default_theme/css/themify-icons.css",
+              "src/assets/default_theme/css/flag-icon.min.css",
+              "src/assets/default_theme/css/cs-skin-elastic.css",
+              "src/assets/default_theme/scss/style.css",
+              "src/assets/default_theme/css/lib/vector-map/jqvmap.min.css",
+              "src/assets/default_theme/css/google_api_fonts_opsans.css"
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
               "node_modules/bootstrap/dist/js/bootstrap.min.js",
-              "node_modules/popper.js/dist/popper.min.js"
+              "node_modules/popper.js/dist/popper.min.js",
+              "node_modules/datatables.net/js/jquery.dataTables.min.js",
+              "node_modules/datatables.net-bs4/js/dataTables.bootstrap4.min.js",
+              "src/assets/default_theme/js/plugins.js",
+              "src/assets/default_theme/js/main.js",
+              "src/assets/default_theme/js/plugins.js",
+              "src/assets/default_theme/js/widgets.js",
+              "src/assets/default_theme/js/dashboard.js",
+              "src/assets/default_theme/js/lib/vector-map/jquery.vmap.js",
+              "src/assets/default_theme/js/lib/vector-map/jquery.vmap.min.js",
+              "src/assets/default_theme/js/lib/vector-map/jquery.vmap.sampledata.js",
+              "src/assets/default_theme/js/lib/vector-map/country/jquery.vmap.world.js"
             ]
           },
           "configurations": {
